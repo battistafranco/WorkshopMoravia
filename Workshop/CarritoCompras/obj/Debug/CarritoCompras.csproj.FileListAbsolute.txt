@@ -1,1 +1,6 @@
 D:\Proyectos\Programacion\Workshop\Workshop\CarritoCompras\bin\Debug\CarritoCompras.exe.config
+D:\Proyectos\Programacion\Workshop\Workshop\CarritoCompras\obj\Debug\CarritoCompras.csprojResolveAssemblyReference.cache
+D:\Proyectos\Programacion\Workshop\Workshop\CarritoCompras\bin\Debug\CarritoCompras.exe
+D:\Proyectos\Programacion\Workshop\Workshop\CarritoCompras\bin\Debug\CarritoCompras.pdb
+D:\Proyectos\Programacion\Workshop\Workshop\CarritoCompras\obj\Debug\CarritoCompras.exe
+D:\Proyectos\Programacion\Workshop\Workshop\CarritoCompras\obj\Debug\CarritoCompras.pdb
